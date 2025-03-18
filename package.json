@@ -1,0 +1,22 @@
+{
+  "name": "reqres-api-test-playright-typescript",
+  "version": "1.0.0",
+  "description": "Reqres API Test Automation with Playwright &amp; TypeScript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thitoribeiro/reqres-api-test-playright-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thitoribeiro/reqres-api-test-playright-typescript/issues"
+  },
+  "homepage": "https://github.com/thitoribeiro/reqres-api-test-playright-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.10"
+  }
+}
